@@ -608,7 +608,7 @@ Before running FixMyTown locally, install:
 ## Clone the repository
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/Syabonga-dev/FixMyTown_Backend
 cd FixMyTown
 ```
 
